@@ -1,0 +1,119 @@
+body{
+    background-color: rgb(33, 33, 33);
+}
+header{
+    background-color: green;
+    color: white;
+    width: 800x;
+    height: 50px;
+}
+header>*{
+    display: inline;
+}
+.title{
+    padding-left:100px;
+    padding-top: 50px;
+    font-size: 50px;
+    color: white;
+}
+.title2{
+    padding-left:100px;
+    font-size: 50px;
+    color: white;
+}
+.description{
+    padding-left:100px;
+    font-size: 20px;
+    color: rgb(150, 150, 150);
+}
+.description2{
+    padding-left:100px;
+    font-size: 20px;
+    color: rgb(150, 150, 150);
+}
+.profile {
+    position: absolute;
+    left:700px;
+    bottom: 250px;
+    width: 300px;
+    height: 300px;    
+    border-radius: 50%;
+  }
+  .work{
+    padding-left:100px;
+    font-size: 16px;
+    padding-top: 300px;
+    color: rgb(150, 150, 150);
+  }
+  .scratch{
+    position: absolute;
+    width: 591px;
+    height: 115px;
+    left: 743px;
+    top: 964px;
+
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 74px;
+    line-height: 101px;
+
+    color: #A5A5A5;
+
+  }
+  .I1{
+    position: absolute;
+    width: 595px;
+    height: 873px;
+    left: 113px;
+    top: 1232px;
+  }
+  .I2{
+    position: absolute;
+    width: 596px;
+    height: 864px;
+    left: 748px;
+    top: 1379px;
+  }
+  .I3{
+    position: absolute;
+    width: 599px;
+    height: 1230px;
+    left: 113px;
+    top: 2310px;
+  }
+  .I4{
+    position: absolute;
+    width: 596px;
+    height: 1278px;
+    left: 748px;
+    top: 2497px;
+  }
+  .I5{
+    position: absolute;
+    width: 1275px;
+    height: 1242px;
+    left: 96px;
+    top: 3880px;
+  }
+  .Footer>p{
+    position: absolute;
+    width: 222px;
+    height: 36px;
+    left: calc(50% - 222px/2 - 547px);
+    bottom: 53px;
+
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 36px;
+
+    letter-spacing: -0.5px;
+
+    color: #959595;
+
+  }
+    
+    
+  
